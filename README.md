@@ -39,12 +39,12 @@ Watch the tutorials here: [🔗 ZeteoSec on YouTube](https://youtube.com/@ZeteoS
 2. Run the IDS engine (Part 1)
 
    ```bash
-   python part1_ids.py
+   python IDS_engine.py
    ```
 3. In a second terminal, run the log generator (Part 2)
 
    ```bash
-   python part2_log_generator.py
+   python log_generator.py
    ```
 4. Watch the IDS detect suspicious activity in real time.
 
